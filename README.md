@@ -33,6 +33,23 @@ Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell Univer
 ---
 
 ## 💼 Connect With Me
+
+<a href="https://linkedin.com/in/arshsingh5" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+</a>
+
+<a href="https://github.com/arshsingh" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40">
+</a>
+
+<a href="mailto:as4274@cornell.edu" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40">
+</a>
+
+<a href="https://arshsingh.net" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="40" height="40">
+</a>
+
 - **Website:** [arshsingh.net](https://arshsingh.net)
 - **LinkedIn:** [linkedin.com/in/arshsingh5](https://www.linkedin.com/in/arshsingh5)
 - **Email:** [as4274@cornell.edu](mailto:as4274@cornell.edu)
@@ -42,3 +59,5 @@ Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell Univer
 
 ## 🛠️ Let's Build Something Together!
 Feel free to explore my repositories, suggest collaborations, or reach out to discuss tech, ideas, or just say hi. I'm always excited to connect with like-minded individuals!
+
+
