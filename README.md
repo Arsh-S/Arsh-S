@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell Univer
 
 ## 👩‍💻 About Me
 - 🔭 **Currently Working On:** Full-Stack Web Development for an unreleased education startup.
-- 🌱 **Learning:** Physics Simulation, Blockchain Development, Advanced Web Development
+- 🌱 **Learning:** Physics Simulation, Blockchain Development, Full Stack Development
 - ⚙️ **Skills:**
 <p align="center">
   <!-- Programming Languages -->
