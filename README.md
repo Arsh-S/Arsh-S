@@ -78,6 +78,11 @@ Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell Univer
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🛠️ Let's Build Something Together!
 Feel free to explore my repositories, suggest collaborations, or reach out to discuss tech, ideas, or just say hi. I'm always excited to connect with like-minded individuals!
 
