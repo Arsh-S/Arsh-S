@@ -51,6 +51,11 @@ Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell Univer
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📚 Notable Projects
 ### **1. AutoNote** 📝
 - A full-stack web application that summarizes PDF files into Markdown using OpenAI's GPT API.
