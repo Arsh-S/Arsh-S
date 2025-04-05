@@ -54,14 +54,14 @@ Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell Univer
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 March 2025 - To: 03 April 2025
+From: 28 March 2025 - To: 04 April 2025
 
-Total Time: 53 mins
+Total Time: 19 mins
 
-TeX      34 mins         ████████████████▒░░░░░░░░   64.71 %
-Python   17 mins         ████████▒░░░░░░░░░░░░░░░░   32.73 %
-Bash     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python   17 mins         ██████████████████████▓░░   90.19 %
+Bash     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+TeX      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
