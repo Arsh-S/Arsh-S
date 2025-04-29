@@ -1,53 +1,47 @@
 # Hi there! 👋 I'm Arsh Singh
 
-Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell University, pursuing **Business** and **AI** Minors. I love building projects that inspire, solve real-world problems, and create impact. 🚀
+Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell University, pursuing **Business** and **AI** minors. I love building projects that inspire, solve real-world problems, and create meaningful impact. 🚀
 
 ---
 
 ## 👨🏽‍💻 About Me
-- 🔭 **Currently Working On:** Full-Stack Web Development for an unreleased education startup.
-- 🌱 **Learning:** Physics Simulation, Blockchain Development, Full Stack Development
+- 🔭 **Currently Working On:** Full-stack development for a peer-to-peer education startup (Ilummu).
+- 🌱 **Learning:** Full-Stack Web Development, Cloud Infrastructure, Sentiment Analysis with NLP
 - ⚙️ **Skills:**
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
-  <img src="https://img.shields.io/badge/JavaScript-f6ef1f?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 <br>
   <!-- Frameworks and Libraries -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/SQLAlchemy-FE5733?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 <br>
-  <!-- Tools -->
+  <!-- Tools and Technologies -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud">
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<br>
-  <img src="https://img.shields.io/badge/CAD-0077B5?style=for-the-badge&logo=cad&logoColor=white" alt="CAD">
-  <img src="https://img.shields.io/badge/Onshape-darkgreen?style=for-the-badge&logo=Onshape&logoColor=white" alt="Onshape">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/OnShape-1D7ABF?style=for-the-badge&logo=onshape&logoColor=white" alt="OnShape">
 </p>
 
 - 💡 **Passionate About:**
-  - Building meaningful projects in SWE and AI.
-  - Mentoring future engineers through tech education.
-  - Exploring the intersection of technology and design thinking.
+  - Building real-world software solutions in SWE, Web Dev, and AI.
+  - Designing impactful educational platforms and tech-for-good applications.
+  - Blending technology and business strategy through innovation.
 - 🌍 **Hobbies:**
-  - Tennis 🎾 | Bhangra 🕺 | Guitar 🎸
+  - Tennis 🎾 | Bhangra 🕺 | Playing Guitar 🎸
 
 ---
 
@@ -71,12 +65,17 @@ CSV          1 min           ░░░░░░░░░░░░░░░░░
 
 ## 📚 Notable Projects
 ### **1. AutoNote** 📝
-- A full-stack web application that summarizes PDF files into Markdown using OpenAI's GPT API.
-- Features Google SSO authentication, data storage with Firebase, and a modern React-based UI.
+- Built a full-stack web application summarizing PDF files into Markdown using OpenAI's GPT API.
+- Features Google SSO Authentication, Firebase Storage, and a React + Vite-based UI.
+- Frontend deployed using Fly.io.
 
 ### **2. NFC Attendance System** 🚨
-- Built a system for tracking robotics team attendance using NFC stickers, Java Servlet, and Raspberry Pi.
-- Integrated with a Discord bot for real-time updates and leaderboards.
+- Developed an NFC-powered attendance system for robotics team events using Raspberry Pi, Java Servlets, and Python.
+- Integrated a Discord bot for real-time reporting and leaderboard updates.
+
+### **3. TableTrack (Cornell Data Strategy)** 📊
+- Developing an NLP-based sentiment analysis pipeline to extract insights from web-scraped reviews.
+- Building automated data flows for real-time strategic analytics at Cornell.
 
 ---
 
@@ -90,13 +89,11 @@ CSV          1 min           ░░░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://arshsingh.net" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website">
   </a>
 </p>
 
 ---
 
 ## 🛠️ Let's Build Something Together!
-Feel free to explore my repositories, suggest collaborations, or reach out to discuss tech, ideas, or just say hi. I'm always excited to connect with like-minded individuals!
-
-
+Feel free to explore my repositories, suggest collaborations, or just say hi! I'm always excited to meet like-minded tech enthusiasts.
