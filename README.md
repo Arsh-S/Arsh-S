@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell Univer
 ---
 
 ## 👨🏽‍💻 About Me
-- 🔭 **Currently Working On:** Full-stack development for a peer-to-peer education startup (Ilummu).
-- 🌱 **Learning:** Full-Stack Web Development, Cloud Infrastructure, Sentiment Analysis with NLP
+- 🔭 **Currently Working On:** Full-Stack Web Development on multiple projects.
+- 🌱 **Learning:** Cloud Infrastructure, NLP Sentiment Analysis, Physics Simulation
 - ⚙️ **Skills:**
 <p align="center">
   <!-- Programming Languages -->
