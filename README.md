@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell Univer
   - Designing impactful educational platforms and tech-for-good applications.
   - Blending technology and business strategy through innovation.
 - 🌍 **Hobbies:**
-  - Tennis 🎾 | Bhangra 🕺 | Playing Guitar 🎸
+  - Tennis 🎾 | Bhangra 🕺 | Video Games 🎮
 
 ---
 
