@@ -48,15 +48,15 @@ Welcome to my GitHub profile! I'm a **Computer Science major** at Cornell Univer
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 August 2025 - To: 22 August 2025
+From: 16 August 2025 - To: 23 August 2025
 
-Total Time: 23 hrs 12 mins
+Total Time: 20 hrs 20 mins
 
-TypeScript         8 hrs 19 mins   █████████░░░░░░░░░░░░░░░░   35.83 %
-Other              7 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   31.09 %
-Python             5 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-Markdown           42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-CSV                38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Other              7 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   37.08 %
+Python             5 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 %
+TypeScript         4 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
+Markdown           42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+CSV                38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
