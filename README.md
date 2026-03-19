@@ -75,15 +75,15 @@ Review analytics platform with scraping, ETL, dashboards, and sentiment analysis
 <!--START_SECTION:waka-->
 
 ```python
-From: 10 March 2026 - To: 17 March 2026
+From: 11 March 2026 - To: 18 March 2026
 
-Total Time: 34 hrs 30 mins
+Total Time: 36 hrs 47 mins
 
-Other        26 hrs 48 mins        ███████████████████▒░░░░░   77.68 %
-TypeScript   5 hrs 3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Python       1 hr 36 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Bash         12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-HTML         9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other        27 hrs 54 mins        ███████████████████░░░░░░   75.84 %
+TypeScript   5 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Python       1 hr 41 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JSON         43 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+JavaScript   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
