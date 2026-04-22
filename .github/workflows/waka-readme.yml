@@ -57,10 +57,11 @@ jobs:
               body = re.sub(r'^.*This Week I Spent My Time On.*\n?', '', body, flags=re.MULTILINE)
               # 3. drop "Last Updated on ..." footer
               body = re.sub(r'^\s*Last Updated on[^\n]*\n?', '', body, flags=re.MULTILINE)
-              # 4. drop cat emoji from Projects header
-              body = body.replace('🐱‍💻 Projects:', 'Projects:')
+              # 4. swap section emojis: cat -> folder, fire -> memo
+              body = body.replace('🐱‍💻 Projects:', '📁 Projects:')
+              body = body.replace('🔥 Editors:', '📝 Editors:')
               # 5. swap ```text -> ```jsoniq and inject "This Week's Coding:" header inside
-              body = re.sub(r'^```text\s*$', "```jsoniq\n📊 This Week's Coding:\n", body, flags=re.MULTILINE)
+              body = re.sub(r'^```text\s*$', "```jsoniq\n📊 This Week's Coding:\n\n", body, flags=re.MULTILINE)
 
               # 6. mask private project names
               def mask_projects(pm):
@@ -76,7 +77,7 @@ jobs:
                           out_lines.append(line)
                   return header + '\n'.join(out_lines)
 
-              body = re.sub(r'(Projects:\s*\n)((?:[^\n]+\n)*?)(?=\n|```|$)',
+              body = re.sub(r'(📁 Projects:\s*\n)((?:[^\n]+\n)*?)(?=\n|```|$)',
                             mask_projects, body)
 
               # ensure closing fence ``` is on its own line
