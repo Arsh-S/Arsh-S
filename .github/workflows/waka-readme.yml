@@ -20,6 +20,7 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: python # optional
           TIME_RANGE: last_7_days
-          LANG_COUNT: 5 # optional
+          LANG_COUNT: 6 # optional
           SHOW_TIME: true # optional
           SHOW_MASKED_TIME: true # optional
+          STOP_AT_OTHER: true # drop "Other" (terminal/ghostty)
