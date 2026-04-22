@@ -68,9 +68,10 @@ jobs:
                   block = pm.group(2)
                   out_lines = []
                   for line in block.splitlines():
-                      mm = re.match(r'^(\S[\S\-_.]*)(\s+.*)$', line)
+                      mm = re.match(r'^(\S[\S\-_.]*)(\s+)(\S.*)$', line)
                       if mm and mm.group(1).lower() not in public:
-                          out_lines.append('[private]'.ljust(len(mm.group(1))) + mm.group(2))
+                          col_w = len(mm.group(1)) + len(mm.group(2))
+                          out_lines.append('[private]'.ljust(col_w) + mm.group(3))
                       else:
                           out_lines.append(line)
                   return header + '\n'.join(out_lines)
@@ -80,6 +81,8 @@ jobs:
 
               # collapse 3+ blank lines to 2
               body = re.sub(r'\n{3,}', '\n\n', body)
+              # ensure closing fence ``` is on its own line
+              body = re.sub(r'[ \t]+```(\s*)$', r'\n```\1', body, flags=re.MULTILINE)
               return f"<!--START_SECTION:waka-->{body}<!--END_SECTION:waka-->"
 
           s = re.sub(r'<!--START_SECTION:waka-->(.*?)<!--END_SECTION:waka-->', rewrite_block, s, flags=re.DOTALL)
