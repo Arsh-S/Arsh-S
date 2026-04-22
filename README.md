@@ -7,7 +7,7 @@
   /       \|  |   ,|  :  /`./ |  :  '   |   . Experience: ................ Python, TypeScript, Java, C, C#, Swift
  .--.  .-. '  :  / |  :  ;_   |  |   /' :   . Stack: ................. React, Next.js, Express, Flask, PostgreSQL
   \__\/: . |  | '   \  \    `.'  :  | | |   . Infra: ............................. Docker, GCP, Cloudflare, Linux
-  ," .--.; ;  : |    `----.   |  |  ' | :   . Hobbies: .................... Full-Stack, Hardware, Homelab, Tennis
+  ,″ .--.; ;  : |    `----.   |  |  ' | :   . Hobbies: .................... Full-Stack, Hardware, Homelab, Tennis
  /  /  ,.  |  , ;   /  /`--'  |  :  :_:,'
 ;  :   .'   ---'   '--'.     /|  | ,'       -— Contact ——————————————————————————————————————————————————————————
 |  ,     .-./        `--'---' `--''         . Email: .................................. write2arshsingh@gmail.com
