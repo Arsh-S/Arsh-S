@@ -88,6 +88,19 @@ jobs:
                   inner = re.sub(r'\n[ \t]*\n+', '\n', inner)
                   return f'```{lang}\n{inner}\n```'
               body = re.sub(r'```(\w+)\n(.*?)\n```', collapse, body, flags=re.DOTALL)
+              # indent data rows under their section headers for readability
+              def indent_data(cm):
+                  lang = cm.group(1)
+                  inner = cm.group(2)
+                  new = []
+                  for line in inner.split('\n'):
+                      st = line.rstrip()
+                      if st == '' or st.endswith(':'):
+                          new.append(line)
+                      else:
+                          new.append('  ' + line)
+                  return f'```{lang}\n' + '\n'.join(new) + '\n```'
+              body = re.sub(r'```(\w+)\n(.*?)\n```', indent_data, body, flags=re.DOTALL)
               # collapse 3+ blank lines to 2 outside code blocks
               body = re.sub(r'\n{3,}', '\n\n', body)
               return f"<!--START_SECTION:waka-->{body}<!--END_SECTION:waka-->"
