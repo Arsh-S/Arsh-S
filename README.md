@@ -1,6 +1,26 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,12&height=140&section=header&text=Arsh%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="header"/>
-</p>
+```jsoniq
+      ___           ___           ___           ___                  arsh singh -—————————————————————————————————————————————————————
+     /\  \         /\  \         /\  \         /\__\                 . OS: ................................... macOS, Linux (homelab)
+    /::\  \       /::\  \       /::\  \       /:/  /                 . Host: ......................................... Cornell University
+   /:/\:\  \     /:/\:\  \     /:/\ \  \     /:/__/                  . Member: ............................. since June 2020
+  /::\~\:\  \   /::\~\:\  \   _\:\~\ \  \   /::\  \ ___              .
+ /:/\:\ \:\__\ /:/\:\ \:\__\ /\ \:\ \ \__\ /:/\:\  /\__\             . IDE: ........................................ Neovim, VS Code
+ \/__\:\/:/  / \/_|::\/:/  / \:\ \:\ \/__/ \/__\:\/:/  /             . Experience: ........... Python, TypeScript, Java, JavaScript, C#, OCaml
+      \::/  /     |:|::/  /   \:\ \:\__\        \::/  /              . Stack: ............... React, Next.js, Express, Flask, PostgreSQL
+      /:/  /      |:|\/__/     \:\/:/  /        /:/  /               . Infra: ......................... Docker, GCP, Cloudflare, Linux
+     /:/  /       |:|  |        \::/  /        /:/  /                . Hobbies: ........... Full-Stack, Hardware, Homelab, Tennis, SSBU
+     \/__/         \|__|         \/__/         \/__/                  .
+                                                                     -— Contact ————————————————————————————————————————————————————————
+                                                                      . Email: ............................................ as4274@cornell.edu
+                                                                      . Email: ........................................ write2arshsingh@gmail.com
+                                                                      . LinkedIn: ............................... linkedin.com/in/arshsingh5
+                                                                      . Website: .......................................... arshsingh.net
+                                                                      .
+                                                                     -— GitHub Stats ———————————————————————————————————————————————————
+                                                                      . Repos: ............ 13 | Stars: ........................ 6
+                                                                      . Followers: ........ 13 | Following: .................... 19
+                                                                      . Profile: ......................................... github.com/Arsh-S
+```
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,14 +28,7 @@
   </a>
 </p>
 
-```
- █████╗ ██████╗ ███████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔════╝██║  ██║
-███████║██████╔╝███████╗███████║
-██╔══██║██╔══██╗╚════██║██╔══██║
-██║  ██║██║  ██║███████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arsh-S&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
@@ -23,18 +36,32 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-S&layout=compact&theme=merko&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsh-S&theme=gruvbox&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsh-S&theme=github-compact&hide_border=true&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D353" alt="activity"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Arsh-S/Arsh-S/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
-### Stack
+### 🛠️ Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,java,js,cs,ocaml,react,nextjs,express,flask,tailwind,postgres,docker,gcp,linux,neovim,tmux&theme=dark&perline=9" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,java,js,cs,ocaml,react,nextjs,express,flask,tailwind,postgres,mysql,docker,gcp,cloudflare,linux,neovim,tmux,git&theme=dark&perline=10" alt="stack"/>
 </p>
 
-### Projects
-- **[CourtSide](https://github.com/Arsh-S)** — real-time AI sports commentary. `Next.js · Flask · WebSockets · Redis · Gemini · ElevenLabs`
-- **[CURaise](https://github.com/Arsh-S)** — open-source fundraising for student orgs. `Next.js · Express · PostgreSQL · Tailwind`
-- **[TableTrack](https://github.com/Arsh-S)** — review analytics with scraping, ETL, sentiment. `React · Flask · PostgreSQL`
+### 🚀 Projects
+
+| | |
+|---|---|
+| **🏀 [CourtSide](https://github.com/Arsh-S)** <br/> Real-time AI sports commentary, low-latency streaming. <br/> `Next.js · Flask · WebSockets · Redis · Gemini · ElevenLabs` | **💸 [CURaise](https://github.com/Arsh-S)** <br/> Open-source fundraising for student orgs. <br/> `Next.js · Express · PostgreSQL · Tailwind` |
+| **📈 [TableTrack](https://github.com/Arsh-S)** <br/> Review analytics, scraping, ETL, sentiment. <br/> `React · Flask · PostgreSQL` | **🔧 Hardware + Homelab** <br/> Microcontroller builds, self-hosted services. <br/> `Arduino · Raspberry Pi · Docker` |
+
+### ⏱️ Weekly Coding
 
 <!--START_SECTION:waka-->
 
