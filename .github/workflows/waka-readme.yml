@@ -104,6 +104,8 @@ jobs:
               body = re.sub(r'```(\w+)\n(.*?)\n```', indent_data, body, flags=re.DOTALL)
               # collapse 3+ blank lines to 2 outside code blocks
               body = re.sub(r'\n{3,}', '\n\n', body)
+              # ensure a blank line right after the top title
+              body = re.sub(r"(📊 This Week's Coding:)\n(?!\n)", r"\1\n\n", body)
               return f"<!--START_SECTION:waka-->{body}<!--END_SECTION:waka-->"
 
           s = re.sub(r'<!--START_SECTION:waka-->(.*?)<!--END_SECTION:waka-->', rewrite_block, s, flags=re.DOTALL)
