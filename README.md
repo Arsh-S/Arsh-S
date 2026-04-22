@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&height=36&duration=2600&pause=1100&color=39D353&center=true&vCenter=true&width=720&lines=cs+%2B+business+and+ai+%40+cornell;full+stack;builder;hackathon+spammer;future+unicorn+founder;hardware+tinkerer;homelab+enthusiast;vibe+coder;yoshi+main" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&height=36&duration=2600&pause=1100&color=39D353&center=true&vCenter=true&width=720&lines=cs+%2B+business+and+ai+%40+cornell;full+stack;builder;hackathon+spammer;future+unicorn+founder;hardware+tinkerer;homelab+enthusiast;vibe+coder;yoshi+main;i+use+vim+btw" alt="typing" />
   </a>
 </p>
 
