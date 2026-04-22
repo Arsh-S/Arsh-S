@@ -27,20 +27,35 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2043%20mins-blue?style=flat)
 
-```python
-From: 15 April 2026 - To: 22 April 2026
+📊 **This Week I Spent My Time On** 
 
-Total Time: 22 hrs 7 mins
+```text
+💬 Programming Languages: 
+Other                    16 hrs 11 mins      ██████████████████░░░░░░░   73.16 % 
+Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+TypeScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
-Other        16 hrs 11 mins        ██████████████████▒░░░░░░   73.16 %
-Python       2 hrs 10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-TypeScript   1 hr                  █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Markdown     34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JavaScript   31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-HTML         19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+🔥 Editors: 
+Ghostty                  20 hrs              ███████████████████████░░   90.44 % 
+Notion                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Obsidian                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Notes                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+
+🐱‍💻 Projects: 
+Halco-Portal             10 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.80 % 
+arsh                     3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+SP26                     3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+cad                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+twin-api                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
+
+ Last Updated on 22/04/2026 22:07:24 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
