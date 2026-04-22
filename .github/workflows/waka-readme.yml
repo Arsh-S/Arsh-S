@@ -36,26 +36,49 @@ jobs:
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "Update waka stats"
 
-      - name: Theme-match code blocks to jsoniq
+      - name: Post-process waka block (theme + private project names)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git pull --rebase
-          # Swap ```text and bare ``` language tags inside waka section to jsoniq for GitHub highlight
+          # Fetch public repo names for Arsh-S
+          PUBLIC=$(gh api 'users/Arsh-S/repos?per_page=100&type=owner' --jq '.[] | select(.private==false) | .name' | tr '[:upper:]' '[:lower:]')
+          export PUBLIC
           python3 <<'PY'
-          import re
+          import os, re
+          public = set(os.environ['PUBLIC'].split())
           with open('README.md') as f: s = f.read()
-          # find waka block and rewrite its code fences
-          def rewrite(m):
+
+          def rewrite_block(m):
               body = m.group(1)
-              # convert opening fences: ```text or ``` (bare start-of-line) -> ```jsoniq
+              # 1. swap ```text -> ```jsoniq for syntax highlight
               body = re.sub(r'^```text\s*$', '```jsoniq', body, flags=re.MULTILINE)
+
+              # 2. mask private project names
+              # find "Projects:" section and rewrite each project line
+              def mask_projects(pm):
+                  header = pm.group(1)
+                  block = pm.group(2)
+                  out_lines = []
+                  for line in block.splitlines():
+                      mm = re.match(r'^(\S[\S\-_.]*)(\s+.*)$', line)
+                      if mm and mm.group(1).lower() not in public:
+                          out_lines.append('[private]'.ljust(len(mm.group(1))) + mm.group(2))
+                      else:
+                          out_lines.append(line)
+                  return header + '\n'.join(out_lines)
+
+              body = re.sub(r'(🐱‍💻 \*?\*?Projects:?\*?\*?\s*\n)((?:.*\n)*?)(?=\n```|\n[^\n]+:|$)',
+                            mask_projects, body)
               return f"<!--START_SECTION:waka-->{body}<!--END_SECTION:waka-->"
-          s = re.sub(r'<!--START_SECTION:waka-->(.*?)<!--END_SECTION:waka-->', rewrite, s, flags=re.DOTALL)
+
+          s = re.sub(r'<!--START_SECTION:waka-->(.*?)<!--END_SECTION:waka-->', rewrite_block, s, flags=re.DOTALL)
           with open('README.md', 'w') as f: f.write(s)
           PY
           if ! git diff --quiet README.md; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add README.md
-            git commit -m "Theme-match waka block to jsoniq"
+            git commit -m "Theme + privacy mask waka block"
             git push
           fi
