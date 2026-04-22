@@ -31,7 +31,7 @@
 
 📊 **This Week I Spent My Time On** 
 
-```jsoniq
+```text
 💬 Programming Languages: 
 Other                    16 hrs 11 mins      ██████████████████░░░░░░░   73.16 % 
 Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
@@ -55,7 +55,7 @@ twin-api                 48 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/04/2026 22:08:23 UTC
+ Last Updated on 22/04/2026 22:09:57 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
