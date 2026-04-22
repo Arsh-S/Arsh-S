@@ -1,23 +1,23 @@
 ```jsoniq
-      ___           ___        arsh singh -——————————————————————————————————————————————
-     /\  \         /\  \       . OS: ......................................... macOS, Windows, Ubuntu
-    /::\  \       /::\  \      . Uptime: ..................................... 21 years, 0 months
-   /:/\:\  \     /:/\ \  \     . Host: ....................................... Cornell University
+      ___           ___        arsh singh -———————————————————————————————————————————————————————————————
+     /\  \         /\  \       . OS: ................................................... macOS, Windows, Ubuntu
+    /::\  \       /::\  \      . Uptime: ................................................... 21 years, 0 months
+   /:/\:\  \     /:/\ \  \     . Host: ..................................................... Cornell University
   /::\~\:\  \   _\:\~\ \  \    .
- /:/\:\ \:\__\ /\ \:\ \ \__\   . IDE: ........................................ Neovim, Cursor, Zed
- \/__\:\/:/  / \:\ \:\ \/__/   . Experience: ................. Python, TypeScript, Java, C, C#, Swift
-      \::/  /   \:\ \:\__\     . Stack: .................. React, Next.js, Express, Flask, PostgreSQL
-      /:/  /     \:\/:/  /     . Infra: ....................... Docker, GCP, Cloudflare, Linux
-     /:/  /       \::/  /      . Hobbies: ..................... Full-Stack, Hardware, Homelab, Tennis
+ /:/\:\ \:\__\ /\ \:\ \ \__\   . IDE: ..................................................... Neovim, Cursor, Zed
+ \/__\:\/:/  / \:\ \:\ \/__/   . Experience: ........................... Python, TypeScript, Java, C, C#, Swift
+      \::/  /   \:\ \:\__\     . Stack: ............................ React, Next.js, Express, Flask, PostgreSQL
+      /:/  /     \:\/:/  /     . Infra: ........................................ Docker, GCP, Cloudflare, Linux
+     /:/  /       \::/  /      . Hobbies: ............................... Full-Stack, Hardware, Homelab, Tennis
      \/__/         \/__/       .
-                              -— Contact ———————————————————————————————————————————————————
-                               . Email: ................................... write2arshsingh@gmail.com
-                               . LinkedIn: ............................... linkedin.com/in/arshsingh5
-                               . Website: ............................................. arshsingh.net
+                               -— Contact —————————————————————————————————————————————————————————————————
+                               . Email: ............................................. write2arshsingh@gmail.com
+                               . LinkedIn: ......................................... linkedin.com/in/arshsingh5
+                               . Website: ....................................................... arshsingh.net
                                .
-                              -— GitHub Stats ——————————————————————————————————————————————
-                               . Repos: ........ 13 {Contributed: 23} | Stars: ................ 6
-                               . Commits: ..................... 1,745 | Followers: ........... 13
+                               -— GitHub Stats ————————————————————————————————————————————————————————————
+                               . Repos: ............... 13 {Contributed: 23} | Stars: ....................... 6
+                               . Commits: ............................ 1,745 | Followers: .................. 13
                                . Lines of Code on GitHub: 304,327 ( 3,639,302++, 3,334,975-- )
 ```
 
@@ -35,10 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsh-S&theme=gruvbox&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="trophies"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsh-S&theme=github-compact&hide_border=true&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D353" alt="activity"/>
 </p>
 
@@ -49,7 +45,15 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,java,c,cs,swift,react,nextjs,express,flask,tailwind,postgres,docker,gcp,linux,neovim,git&theme=dark" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,ocaml,html,css,latex&theme=dark" alt="languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,flask&theme=dark" alt="frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&theme=dark" alt="databases"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,cloudflare,linux,git,github,vim&theme=dark" alt="infra"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,raspberrypi,arduino&theme=dark" alt="ml-hardware"/>
 </p>
 
 ### ⏱️ Weekly Coding
