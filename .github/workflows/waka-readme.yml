@@ -13,6 +13,8 @@ jobs:
     name: Waka Stats
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
