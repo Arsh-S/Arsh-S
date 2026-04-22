@@ -31,7 +31,7 @@
 
 📊 **This Week I Spent My Time On** 
 
-```text
+```jsoniq
 💬 Programming Languages: 
 Other                    16 hrs 11 mins      ██████████████████░░░░░░░   73.16 % 
 Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
