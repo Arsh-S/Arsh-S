@@ -29,15 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 April 2026 - To: 21 April 2026
+From: 15 April 2026 - To: 22 April 2026
 
-Total Time: 25 hrs 12 mins
+Total Time: 22 hrs 7 mins
 
-Other        17 hrs 58 mins        █████████████████▓░░░░░░░   71.28 %
-Python       2 hrs 18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-TypeScript   1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-Markdown     43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-JavaScript   39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other        16 hrs 11 mins        ██████████████████▒░░░░░░   73.16 %
 ```
 
 <!--END_SECTION:waka-->
