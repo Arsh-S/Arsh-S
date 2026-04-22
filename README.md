@@ -1,23 +1,24 @@
 ```jsoniq
-      ___           ___                            arsh singh -—————————————————————————————————————————————
-     /\  \         /\  \                           . OS: ........................... macOS, Linux (homelab)
-    /::\  \       /::\  \                          . Uptime: ......................... 21 years, 0 months
-   /:/\:\  \     /:/\ \  \                         . Host: ............................... Cornell University
-  /::\~\:\  \   _\:\~\ \  \                        .
- /:/\:\ \:\__\ /\ \:\ \ \__\                       . IDE: ............................................ Neovim
- \/__\:\/:/  / \:\ \:\ \/__/                       . Experience: ........ Python, TypeScript, Java, C#, OCaml, Swift
-      \::/  /   \:\ \:\__\                         . Hobbies: ........... Full-Stack, Hardware, Homelab, Tennis
-      /:/  /     \:\/:/  /
-     /:/  /       \::/  /                         -— Contact ————————————————————————————————————————————————
-     \/__/         \/__/                           . Email: .......................... write2arshsingh@gmail.com
-                                                   . Email: ........................................ as4274@cornell.edu
-                                                   . LinkedIn: ........................... linkedin.com/in/arshsingh5
-                                                   . Website: .................................... arshsingh.net
-
-                                                  -— GitHub Stats ———————————————————————————————————————————
-                                                   . Repos: ...... 13 {Contributed: 23} | Stars: ........... 6
-                                                   . Commits: .................. 1,745 | Followers: ........ 13
-                                                   . Lines of Code on GitHub: ~91,000 (estimated)
+      ___           ___        arsh singh -—————————————————————————————————————————————
+     /\  \         /\  \       . OS: ......................... macOS, Windows, Ubuntu
+    /::\  \       /::\  \      . Uptime: ..................... 21 years, 0 months
+   /:/\:\  \     /:/\ \  \     . Host: ....................... Cornell University
+  /::\~\:\  \   _\:\~\ \  \    .
+ /:/\:\ \:\__\ /\ \:\ \ \__\   . IDE: ........................ Neovim, Cursor, Zed
+ \/__\:\/:/  / \:\ \:\ \/__/   . Experience: ................. Python, TypeScript, Java, C, C#, Swift
+      \::/  /   \:\ \:\__\     . Stack: ...................... React, Next.js, Express, Flask, PostgreSQL
+      /:/  /     \:\/:/  /     . Infra: ...................... Docker, GCP, Cloudflare, Linux
+     /:/  /       \::/  /      . Hobbies: .................... Full-Stack, Hardware, Homelab, Tennis
+     \/__/         \/__/       .
+                              -— Contact ————————————————————————————————————————————————
+                               . Email: ...................... write2arshsingh@gmail.com
+                               . LinkedIn: ................... linkedin.com/in/arshsingh5
+                               . Website: .................... arshsingh.net
+                               .
+                              -— GitHub Stats ———————————————————————————————————————————
+                               . Repos: ...... 13 {Contributed: 23} | Stars: ........... 6
+                               . Commits: .................. 1,745 | Followers: ........ 13
+                               . Lines of Code on GitHub: 304,327 ( 3,639,302++, 3,334,975-- )
 ```
 
 <p align="center">
@@ -49,7 +50,7 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,java,js,cs,ocaml,react,nextjs,express,flask,tailwind,postgres,mysql,docker,gcp,cloudflare,linux,neovim,tmux,git&theme=dark&perline=10" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,java,c,cs,swift,react,nextjs,express,flask,tailwind,postgres,mysql,docker,gcp,cloudflare,linux,neovim,tmux,git&theme=dark&perline=10" alt="stack"/>
 </p>
 
 ### 🚀 Projects
@@ -80,6 +81,6 @@ JavaScript   39 mins               ▓░░░░░░░░░░░░░░
 <p align="center">
   <a href="https://arshsingh.net"><img src="https://img.shields.io/badge/web-arshsingh.net-39D353?style=flat-square&labelColor=0d1117"/></a>
   <a href="https://linkedin.com/in/arshsingh5"><img src="https://img.shields.io/badge/linkedin-arshsingh5-39D353?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=39D353"/></a>
-  <a href="mailto:as4274@cornell.edu"><img src="https://img.shields.io/badge/email-as4274%40cornell.edu-39D353?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=39D353"/></a>
+  <a href="mailto:write2arshsingh@gmail.com"><img src="https://img.shields.io/badge/email-write2arshsingh%40gmail.com-39D353?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=39D353"/></a>
   <img src="https://komarev.com/ghpvc/?username=Arsh-S&style=flat-square&color=39D353&labelColor=0d1117&label=views"/>
 </p>
