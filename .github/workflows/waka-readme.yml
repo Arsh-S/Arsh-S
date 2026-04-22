@@ -79,10 +79,17 @@ jobs:
               body = re.sub(r'(Projects:\s*\n)((?:[^\n]+\n)*?)(?=\n|```|$)',
                             mask_projects, body)
 
-              # collapse 3+ blank lines to 2
-              body = re.sub(r'\n{3,}', '\n\n', body)
               # ensure closing fence ``` is on its own line
               body = re.sub(r'[ \t]+```(\s*)$', r'\n```\1', body, flags=re.MULTILINE)
+              # collapse blank lines inside the code block (saves vertical space)
+              def collapse(cm):
+                  lang = cm.group(1)
+                  inner = cm.group(2)
+                  inner = re.sub(r'\n[ \t]*\n+', '\n', inner)
+                  return f'```{lang}\n{inner}\n```'
+              body = re.sub(r'```(\w+)\n(.*?)\n```', collapse, body, flags=re.DOTALL)
+              # collapse 3+ blank lines to 2 outside code blocks
+              body = re.sub(r'\n{3,}', '\n\n', body)
               return f"<!--START_SECTION:waka-->{body}<!--END_SECTION:waka-->"
 
           s = re.sub(r'<!--START_SECTION:waka-->(.*?)<!--END_SECTION:waka-->', rewrite_block, s, flags=re.DOTALL)
