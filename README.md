@@ -1,23 +1,23 @@
 ```jsoniq
-      ___           ___        arsh singh -—————————————————————————————————————————————
-     /\  \         /\  \       . OS: ......................... macOS, Windows, Ubuntu
-    /::\  \       /::\  \      . Uptime: ..................... 21 years, 0 months
-   /:/\:\  \     /:/\ \  \     . Host: ....................... Cornell University
+      ___           ___        arsh singh -——————————————————————————————————————————————
+     /\  \         /\  \       . OS: ......................................... macOS, Windows, Ubuntu
+    /::\  \       /::\  \      . Uptime: ..................................... 21 years, 0 months
+   /:/\:\  \     /:/\ \  \     . Host: ....................................... Cornell University
   /::\~\:\  \   _\:\~\ \  \    .
- /:/\:\ \:\__\ /\ \:\ \ \__\   . IDE: ........................ Neovim, Cursor, Zed
+ /:/\:\ \:\__\ /\ \:\ \ \__\   . IDE: ........................................ Neovim, Cursor, Zed
  \/__\:\/:/  / \:\ \:\ \/__/   . Experience: ................. Python, TypeScript, Java, C, C#, Swift
-      \::/  /   \:\ \:\__\     . Stack: ...................... React, Next.js, Express, Flask, PostgreSQL
-      /:/  /     \:\/:/  /     . Infra: ...................... Docker, GCP, Cloudflare, Linux
-     /:/  /       \::/  /      . Hobbies: .................... Full-Stack, Hardware, Homelab, Tennis
+      \::/  /   \:\ \:\__\     . Stack: .................. React, Next.js, Express, Flask, PostgreSQL
+      /:/  /     \:\/:/  /     . Infra: ....................... Docker, GCP, Cloudflare, Linux
+     /:/  /       \::/  /      . Hobbies: ..................... Full-Stack, Hardware, Homelab, Tennis
      \/__/         \/__/       .
-                              -— Contact ————————————————————————————————————————————————
-                               . Email: ...................... write2arshsingh@gmail.com
-                               . LinkedIn: ................... linkedin.com/in/arshsingh5
-                               . Website: .................... arshsingh.net
+                              -— Contact ———————————————————————————————————————————————————
+                               . Email: ................................... write2arshsingh@gmail.com
+                               . LinkedIn: ............................... linkedin.com/in/arshsingh5
+                               . Website: ............................................. arshsingh.net
                                .
-                              -— GitHub Stats ———————————————————————————————————————————
-                               . Repos: ...... 13 {Contributed: 23} | Stars: ........... 6
-                               . Commits: .................. 1,745 | Followers: ........ 13
+                              -— GitHub Stats ——————————————————————————————————————————————
+                               . Repos: ........ 13 {Contributed: 23} | Stars: ................ 6
+                               . Commits: ..................... 1,745 | Followers: ........... 13
                                . Lines of Code on GitHub: 304,327 ( 3,639,302++, 3,334,975-- )
 ```
 
@@ -30,13 +30,12 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-S&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsh-S&theme=merko&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-S&layout=compact&theme=merko&hide_border=true&langs_count=8" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-S&layout=compact&theme=merko&hide_border=true&langs_count=8" height="160"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsh-S&theme=gruvbox&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsh-S&theme=gruvbox&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 <p align="center">
@@ -50,15 +49,8 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,java,c,cs,swift,react,nextjs,express,flask,tailwind,postgres,mysql,docker,gcp,cloudflare,linux,neovim,tmux,git&theme=dark&perline=10" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,java,c,cs,swift,react,nextjs,express,flask,tailwind,postgres,docker,gcp,linux,neovim,git&theme=dark" alt="stack"/>
 </p>
-
-### 🚀 Projects
-
-| | |
-|---|---|
-| **🏀 [CourtSide](https://github.com/Arsh-S)** <br/> Real-time AI sports commentary, low-latency streaming. <br/> `Next.js · Flask · WebSockets · Redis · Gemini · ElevenLabs` | **💸 [CURaise](https://github.com/Arsh-S)** <br/> Open-source fundraising for student orgs. <br/> `Next.js · Express · PostgreSQL · Tailwind` |
-| **📈 [TableTrack](https://github.com/Arsh-S)** <br/> Review analytics, scraping, ETL, sentiment. <br/> `React · Flask · PostgreSQL` | **🔧 Hardware + Homelab** <br/> Microcontroller builds, self-hosted services. <br/> `Arduino · Raspberry Pi · Docker` |
 
 ### ⏱️ Weekly Coding
 
@@ -79,8 +71,13 @@ JavaScript   39 mins               ▓░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <a href="https://arshsingh.net"><img src="https://img.shields.io/badge/web-arshsingh.net-39D353?style=flat-square&labelColor=0d1117"/></a>
-  <a href="https://linkedin.com/in/arshsingh5"><img src="https://img.shields.io/badge/linkedin-arshsingh5-39D353?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=39D353"/></a>
-  <a href="mailto:write2arshsingh@gmail.com"><img src="https://img.shields.io/badge/email-write2arshsingh%40gmail.com-39D353?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=39D353"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Arsh-S&style=flat-square&color=39D353&labelColor=0d1117&label=views"/>
+  <a href="https://linkedin.com/in/arshsingh5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:write2arshsingh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://arshsingh.net" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"/>
+  </a>
 </p>
