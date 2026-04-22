@@ -26,25 +26,6 @@
   </a>
 </p>
 
-<table><tr><td valign="top">
-
-⬜⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬜<br/>
-⬜⬜⬜⬛🟩⬜⬜⬜⬛⬜⬜⬜<br/>
-⬜⬜⬛🟩🟩🟩⬜⬜⬜⬛⬜⬜<br/>
-⬜⬜⬛🟩🟩🟩⬜⬜⬜⬛⬜⬜<br/>
-⬜⬛🟩🟩🟩⬜⬜⬜⬜⬜⬛⬜<br/>
-⬜⬛🟩🟩⬜⬜⬜⬜⬜⬜⬛⬜<br/>
-⬛⬜⬜⬜⬜⬜⬜⬜🟩⬜⬜⬛<br/>
-⬛⬜⬜⬜⬜⬜⬜🟩🟩🟩⬜⬛<br/>
-⬛⬜⬜⬜⬜⬜⬜🟩🟩🟩⬜⬛<br/>
-⬛⬜🟩🟩🟩⬜⬜⬜🟩⬜⬜⬛<br/>
-⬛🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬛<br/>
-⬜⬛🟩🟩🟩🟩🟩⬜⬜⬜⬛⬜<br/>
-⬜⬜⬛⬛🟩🟩🟩⬜⬛⬛⬜⬜<br/>
-⬜⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬜<br/>
-
-</td><td valign="top">
-
 <!--START_SECTION:waka-->
 
 ```jsoniq
@@ -72,8 +53,6 @@ Projects:
 twin-api                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 <!--END_SECTION:waka-->
-
-</td></tr></table>
 
 <p align="center">
   <a href="https://linkedin.com/in/arshsingh5" target="_blank">
