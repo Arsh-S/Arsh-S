@@ -1,55 +1,93 @@
-# Hi, I’m Arsh Singh 👋
+<!-- HEADER -->
+<a href="https://arshsingh.net">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,20&height=220&section=header&text=Arsh%20Singh&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cornell%20CS%20%C2%B7%20Business%20%C2%B7%20AI&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+</a>
 
-I’m a Computer Science major at Cornell University with minors in Business and Artificial Intelligence. I enjoy building useful products and systems, especially where thoughtful design meets real-world impact.
-
----
-
-## 👨🏽‍💻 About Me
-- 🔭 Currently working on: Full-stack product development and student-led engineering projects
-- 🌱 Learning: Cloud infrastructure, reinforcement learning, and simulation
-- 🧠 I like: Shipping end-to-end features, backend systems, and clean UX
-- 🧰 Outside of software: Hardware and microcontroller projects, homelab tinkering
-- 🎾 For fun: Tennis and SSBU (casually)
-
----
-
-## ⚙️ Skills
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Full-stack+builder+%E2%9A%A1+shipping+end-to-end;Backend+systems+%2B+clean+UX;Hardware%2C+microcontrollers%2C+homelab;Turning+ideas+into+demos+fast" alt="typing" />
+  </a>
+</p>
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <br>
+<!-- 3D ASCII BANNER -->
+```
+      ___           ___           ___           ___     
+     /\  \         /\  \         /\  \         /\__\    
+    /::\  \       /::\  \       /::\  \       /:/  /    
+   /:/\:\  \     /:/\:\  \     /:/\ \  \     /:/__/     
+  /::\~\:\  \   /::\~\:\  \   _\:\~\ \  \   /::\  \ ___ 
+ /:/\:\ \:\__\ /:/\:\ \:\__\ /\ \:\ \ \__\ /:/\:\  /\__\
+ \/__\:\/:/  / \/_|::\/:/  / \:\ \:\ \/__/ \/__\:\/:/  /
+      \::/  /     |:|::/  /   \:\ \:\__\        \::/  / 
+      /:/  /      |:|\/__/     \:\/:/  /        /:/  /  
+     /:/  /       |:|  |        \::/  /        /:/  /   
+     \/__/         \|__|         \/__/         \/__/    
+```
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arsh-S&style=for-the-badge&color=7AA2F7&label=VISITORS" alt="views"/>
+  <img src="https://img.shields.io/github/followers/Arsh-S?style=for-the-badge&color=7AA2F7&labelColor=1a1b26" alt="followers"/>
 </p>
 
 ---
 
-## 🧩 What I’m building
+## 👨🏽‍💻 About
+
+```ts
+const arsh = {
+  school:   "Cornell University",
+  majors:   ["Computer Science"],
+  minors:   ["Business", "AI"],
+  building: ["full-stack products", "student-led eng projects"],
+  learning: ["cloud infra", "RL", "simulation"],
+  loves:    ["shipping end-to-end", "backend systems", "clean UX"],
+  offline:  ["hardware + microcontrollers", "homelab tinkering"],
+  fun:      ["tennis", "SSBU (casual)"],
+};
+```
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsh-S&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-S&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&langs_count=10" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsh-S&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsh-S&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7" alt="activity"/>
+</p>
+
+<!-- SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arsh-S/Arsh-S/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
+---
+
+## ⚙️ Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=py,ts,java,js,cs,ocaml,latex&theme=dark" alt="languages"/>
+  <br/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,tailwind&theme=dark" alt="frameworks"/>
+  <br/>
+  <!-- Tools / Infra -->
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,mysql,gcp,cloudflare,neovim,tmux&theme=dark" alt="tools"/>
+</p>
+
+---
+
+## 🧩 What I'm building
+
 - Multi-tenant systems and internal tools for teams
 - Student-facing apps and real client projects through Cornell orgs
 - Hackathon prototypes that turn ideas into demos quickly
@@ -58,19 +96,69 @@ I’m a Computer Science major at Cornell University with minors in Business and
 ---
 
 ## 📚 Notable Projects
-### CourtSide
-Real-time AI sports commentary for live games with low latency streaming.  
-**Tech:** Next.js, Flask, WebSockets, Redis, Gemini, ElevenLabs
 
-### CURaise
-Open-source fundraising platform for student organizations with order tracking and automated payment verification.  
-**Tech:** Next.js, Express, PostgreSQL, Tailwind CSS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### TableTrack
-Review analytics platform with scraping, ETL, dashboards, and sentiment analysis for large datasets.  
-**Tech:** React, Flask, PostgreSQL
+### 🏀 CourtSide
+Real-time AI sports commentary for live games with low-latency streaming.
+<br/><br/>
+<sub>
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-333"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-000"/>
+</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 CURaise
+Open-source fundraising platform for student orgs: order tracking + automated payment verification.
+<br/><br/>
+<sub>
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"/>
+</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 TableTrack
+Review analytics platform: scraping, ETL, dashboards, sentiment over large datasets.
+<br/><br/>
+<sub>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 More
+Hackathons, homelab experiments, microcontroller builds. Explore repos →
+<br/><br/>
+<sub>
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Self--hosted-222"/>
+</sub>
+
+</td>
+</tr>
+</table>
 
 ---
+
+## ⏱️ Weekly Coding
 
 <!--START_SECTION:waka-->
 
@@ -90,20 +178,26 @@ JavaScript   39 mins               ▓░░░░░░░░░░░░░░
 
 ---
 
-## 💼 Connect With Me
+## 💭 Quote
+
 <p align="center">
-  <a href="https://linkedin.com/in/arshsingh5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:as4274@cornell.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://arshsingh.net" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website">
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </p>
 
 ---
 
-## 🛠️ Let’s build
-Feel free to explore my repositories, open an issue, or reach out if you want to collaborate.
+## 💼 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/arshsingh5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:as4274@cornell.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://arshsingh.net" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,20&height=120&section=footer&animation=fadeIn" alt="footer"/>
