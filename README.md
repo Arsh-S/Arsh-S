@@ -26,37 +26,6 @@
   </a>
 </p>
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsh-S&theme=merko&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-S&layout=compact&theme=merko&hide_border=true&langs_count=8" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsh-S&theme=github-compact&hide_border=true&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D353" alt="activity"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arsh-S/Arsh-S/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-
-### 🛠️ Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,ocaml,html,css,latex&theme=dark" alt="languages"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,flask&theme=dark" alt="frameworks"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&theme=dark" alt="databases"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,cloudflare,linux,git,github,vim&theme=dark" alt="infra"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,raspberrypi,arduino&theme=dark" alt="ml-hardware"/>
-</p>
-
-### ⏱️ Weekly Coding
-
 <!--START_SECTION:waka-->
 
 ```python
