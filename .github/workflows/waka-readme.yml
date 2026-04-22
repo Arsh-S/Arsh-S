@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Waka Stats
@@ -13,7 +16,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_TIMEZONE: "False"
@@ -30,3 +33,27 @@ jobs:
           LOCALE: "en"
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "Update waka stats"
+
+      - name: Theme-match code blocks to jsoniq
+        run: |
+          git pull --rebase
+          # Swap ```text and bare ``` language tags inside waka section to jsoniq for GitHub highlight
+          python3 <<'PY'
+          import re
+          with open('README.md') as f: s = f.read()
+          # find waka block and rewrite its code fences
+          def rewrite(m):
+              body = m.group(1)
+              # convert opening fences: ```text or ``` (bare start-of-line) -> ```jsoniq
+              body = re.sub(r'^```text\s*$', '```jsoniq', body, flags=re.MULTILINE)
+              return f"<!--START_SECTION:waka-->{body}<!--END_SECTION:waka-->"
+          s = re.sub(r'<!--START_SECTION:waka-->(.*?)<!--END_SECTION:waka-->', rewrite, s, flags=re.DOTALL)
+          with open('README.md', 'w') as f: f.write(s)
+          PY
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "Theme-match waka block to jsoniq"
+            git push
+          fi
