@@ -51,11 +51,18 @@ jobs:
 
           def rewrite_block(m):
               body = m.group(1)
-              # 1. swap ```text -> ```jsoniq for syntax highlight
-              body = re.sub(r'^```text\s*$', '```jsoniq', body, flags=re.MULTILINE)
+              # 1. drop Code Time badge line
+              body = re.sub(r'^!\[Code Time\][^\n]*\n?', '', body, flags=re.MULTILINE)
+              # 2. drop "📊 **This Week I Spent My Time On**" header line(s)
+              body = re.sub(r'^.*This Week I Spent My Time On.*\n?', '', body, flags=re.MULTILINE)
+              # 3. drop "Last Updated on ..." footer
+              body = re.sub(r'^\s*Last Updated on[^\n]*\n?', '', body, flags=re.MULTILINE)
+              # 4. drop cat emoji from Projects header
+              body = body.replace('🐱‍💻 Projects:', 'Projects:')
+              # 5. swap ```text -> ```jsoniq and inject "This Week's Coding:" header inside
+              body = re.sub(r'^```text\s*$', "```jsoniq\n📊 This Week's Coding:\n", body, flags=re.MULTILINE)
 
-              # 2. mask private project names
-              # find "Projects:" section and rewrite each project line
+              # 6. mask private project names
               def mask_projects(pm):
                   header = pm.group(1)
                   block = pm.group(2)
@@ -68,8 +75,11 @@ jobs:
                           out_lines.append(line)
                   return header + '\n'.join(out_lines)
 
-              body = re.sub(r'(🐱‍💻 \*?\*?Projects:?\*?\*?\s*\n)((?:.*\n)*?)(?=\n```|\n[^\n]+:|$)',
+              body = re.sub(r'(Projects:\s*\n)((?:[^\n]+\n)*?)(?=\n|```|$)',
                             mask_projects, body)
+
+              # collapse 3+ blank lines to 2
+              body = re.sub(r'\n{3,}', '\n\n', body)
               return f"<!--START_SECTION:waka-->{body}<!--END_SECTION:waka-->"
 
           s = re.sub(r'<!--START_SECTION:waka-->(.*?)<!--END_SECTION:waka-->', rewrite_block, s, flags=re.DOTALL)
