@@ -27,29 +27,35 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2030%20mins-blue?style=flat)
 
-```jsoniq
-📊 This Week's Coding:
+📊 **This Week I Spent My Time On** 
 
+```text
 💬 Programming Languages: 
-  Other                    15 hrs 9 mins       ██████████████████░░░░░░░   73.19 % 
-  Python                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-  TypeScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-  Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-  HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-📝 Editors: 
-  Ghostty                  16 hrs 48 mins      ████████████████████░░░░░   81.15 % 
-  Notion                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-  Unknown Editor           1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-  Notes                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-  Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-📁 Projects: 
-  [private]                11 hrs 30 mins      ██████████████░░░░░░░░░░░   55.60 % 
-  Arsh-S                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-  [private]                2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-  [private]                59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-  [private]                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Other                    12 hrs 43 mins      ██████████████████░░░░░░░   73.61 % 
+TypeScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TeX                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+
+🔥 Editors: 
+Ghostty                  12 hrs 26 mins      ██████████████████░░░░░░░   72.00 % 
+Unknown Editor           2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Notion                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Notes                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+
+🐱‍💻 Projects: 
+Halco-Portal             8 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.73 % 
+SP26                     2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Arsh-S                   2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+arsh-portfolio           1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+arsh                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
+
+
+ Last Updated on 27/04/2026 02:28:43 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
