@@ -27,29 +27,35 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%208%20mins-blue?style=flat)
 
-```jsoniq
-📊 This Week's Coding:
+📊 **This Week I Spent My Time On** 
 
+```text
 💬 Programming Languages: 
-  Other                    15 hrs 49 mins      ███████████████████░░░░░░   74.18 % 
-  Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-  TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-  JavaScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-  Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-📝 Editors: 
-  Ghostty                  14 hrs 28 mins      █████████████████░░░░░░░░   67.80 % 
-  Unknown Editor           4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-  Notion                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-  Notes                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-  Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-📁 Projects: 
-  [private]                10 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.07 % 
-  [private]                4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-  Arsh-S                   2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-  [private]                1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-  [private]                51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Other                    11 hrs 10 mins      ████████████████████░░░░░   79.30 % 
+TeX                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+
+🔥 Editors: 
+Ghostty                  7 hrs 35 mins       █████████████░░░░░░░░░░░░   53.81 % 
+Unknown Editor           5 hrs               █████████░░░░░░░░░░░░░░░░   35.54 % 
+Notion                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Notes                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Obsidian                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+
+🐱‍💻 Projects: 
+SP26                     11 hrs 6 mins       ████████████████████░░░░░   78.74 % 
+arsh-portfolio           1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+arsh                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+curaise                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+grad-plan-app            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
+
+
+ Last Updated on 01/05/2026 02:43:15 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
