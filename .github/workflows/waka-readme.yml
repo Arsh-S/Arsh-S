@@ -33,7 +33,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_TOTAL_CODE_TIME: "True"
           LOCALE: "en"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Update waka stats"
 
       - name: Post-process waka block (theme + private project names)
