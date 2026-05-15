@@ -26,10 +26,7 @@
   </a>
 </p>
 
-<!--START_SECTION:waka-->
-
- Last Updated on 15/05/2026 02:47:40 UTC
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 <p align="center">
   <a href="https://linkedin.com/in/arshsingh5" target="_blank">
