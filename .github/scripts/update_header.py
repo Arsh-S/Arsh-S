@@ -144,13 +144,13 @@ for i in range(max(len(ASCII_ART), len(info))):
         out.append(a.rstrip())
     else:
         out.append(a + GAP + t)
-new_block = "```yaml\n" + "\n".join(out) + "\n```"
+new_block = "```bash\n" + "\n".join(out) + "\n```"
 
 # ---- splice into README ----
 readme_path = "README.md"
 with open(readme_path) as f:
     src = f.read()
-new_src = re.sub(r"```(?:jsoniq|yaml)\n.*?\n```", lambda m: new_block, src, count=1, flags=re.DOTALL)
+new_src = re.sub(r"```(?:jsoniq|yaml|bash)\n.*?\n```", lambda m: new_block, src, count=1, flags=re.DOTALL)
 if new_src == src:
     print("no change", file=sys.stderr)
     sys.exit(0)
