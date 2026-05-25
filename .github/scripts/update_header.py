@@ -121,7 +121,7 @@ info = [
     field("Experience", "Python, TypeScript, Java, C, C#, Swift"),
     field("Stack", "React, Next.js, Express, Flask, PostgreSQL"),
     field("Infra", "Docker, GCP, Cloudflare, Linux"),
-    field("Hobbies", "Full-Stack, Hardware, Homelab, Tennis"),
+    field("Hobbies", "Hardware, Homelab, Tennis, SSBU"),
     None,
     hdr("-— Contact "),
     field("Email", "mail@arshsingh.net"),
@@ -131,7 +131,7 @@ info = [
     hdr("-— GitHub Stats "),
     stats_line("Repos", f"{public_repos} {{Contributed: {contributed}}}", "Stars", str(stars)),
     stats_line("Commits", fmt_int(commits), "Followers", str(followers)),
-    f". Lines of Code on GitHub: {fmt_int(loc_net)} ( {fmt_int(add)}++, {fmt_int(del_)}-- )",
+    field("Lines of Code on GitHub", f"{fmt_int(loc_net)} ( {fmt_int(add)}++, {fmt_int(del_)}-- )"),
 ]
 
 # ---- compose block ----
@@ -144,13 +144,13 @@ for i in range(max(len(ASCII_ART), len(info))):
         out.append(a.rstrip())
     else:
         out.append(a + GAP + t)
-new_block = "```jsoniq\n" + "\n".join(out) + "\n```"
+new_block = "```yaml\n" + "\n".join(out) + "\n```"
 
 # ---- splice into README ----
 readme_path = "README.md"
 with open(readme_path) as f:
     src = f.read()
-new_src = re.sub(r"```jsoniq\n.*?\n```", lambda m: new_block, src, count=1, flags=re.DOTALL)
+new_src = re.sub(r"```(?:jsoniq|yaml)\n.*?\n```", lambda m: new_block, src, count=1, flags=re.DOTALL)
 if new_src == src:
     print("no change", file=sys.stderr)
     sys.exit(0)
