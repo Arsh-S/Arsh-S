@@ -124,7 +124,7 @@ info = [
     field("Hobbies", "Hardware, Homelab, Tennis, SSBU"),
     None,
     hdr("-— Contact "),
-    field("Email", "mail@arshsingh.net"),
+    field("Email", "hello@arshsingh.net"),
     field("LinkedIn", "linkedin.com/in/arshsingh5"),
     field("Website", "arshsingh.net"),
     None,

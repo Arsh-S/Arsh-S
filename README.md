@@ -10,7 +10,7 @@
   ,″ .--.; ;  : |    `----.   |  |  ' | :   . Hobbies: .......................... Hardware, Homelab, Tennis, SSBU
  /  /  ,.  |  , ;   /  /`--'  |  :  :_:,'
 ;  :   .'   ---'   '--'.     /|  | ,'       -— Contact ——————————————————————————————————————————————————————————
-|  ,     .-./        `--'---' `--''         . Email: ......................................... mail@arshsingh.net
+|  ,     .-./        `--'---' `--''         . Email: ........................................ hello@arshsingh.net
  `--`---'                                   . LinkedIn: .............................. linkedin.com/in/arshsingh5
                                             . Website: ............................................ arshsingh.net
 
@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/arshsingh5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mail@arshsingh.net" target="_blank">
+  <a href="mailto:hello@arshsingh.net" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://arshsingh.net" target="_blank">
