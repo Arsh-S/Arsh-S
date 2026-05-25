@@ -144,7 +144,7 @@ for i in range(max(len(ASCII_ART), len(info))):
         out.append(a.rstrip())
     else:
         out.append(a + GAP + t)
-new_block = "```bash\n" + "\n".join(out) + "\n```"
+new_block = "```jsoniq\n" + "\n".join(out) + "\n```"
 
 # ---- splice into README ----
 readme_path = "README.md"
