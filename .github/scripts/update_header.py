@@ -35,6 +35,14 @@ def gh(args):
     out = subprocess.check_output(["gh", "api"] + args, text=True)
     return out.strip()
 
+TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
+
+def authed_url(url):
+    # embed token so private repos clone in CI (and locally when GH_TOKEN is set)
+    if TOKEN and url.startswith("https://"):
+        return url.replace("https://", f"https://x-access-token:{TOKEN}@", 1)
+    return url
+
 def field(label, value, width=W):
     p = f". {label}: "
     s = f" {value}"
@@ -68,10 +76,10 @@ def uptime_str(dob, today):
 print("fetching user info...", file=sys.stderr)
 user = json.loads(gh([f"users/{USER}"]))
 followers = user["followers"]
-public_repos = user["public_repos"]
 
-print("fetching owned repos...", file=sys.stderr)
-repos = json.loads(gh([f"users/{USER}/repos?per_page=100&type=owner"]))
+print("fetching owned repos (incl. private)...", file=sys.stderr)
+repos = json.loads(gh(["--paginate", "/user/repos?affiliation=owner&per_page=100"]))
+repo_count = len(repos)
 stars = sum(r["stargazers_count"] for r in repos)
 clone_urls = [r["clone_url"] for r in repos]
 
@@ -93,7 +101,7 @@ add = del_ = 0
 for url in clone_urls:
     name = url.rsplit("/", 1)[-1].removesuffix(".git")
     dest = os.path.join(tmp, name)
-    subprocess.run(["git", "clone", "--quiet", url, dest], check=False, stderr=subprocess.DEVNULL)
+    subprocess.run(["git", "clone", "--quiet", authed_url(url), dest], check=False, stderr=subprocess.DEVNULL)
     if not os.path.isdir(os.path.join(dest, ".git")):
         continue
     p = subprocess.run(
@@ -109,7 +117,7 @@ shutil.rmtree(tmp, ignore_errors=True)
 loc_net = add - del_
 
 today = date.today()
-print(f"data: repos={public_repos} contributed={contributed} stars={stars} commits={commits} followers={followers} loc={loc_net} (+{add}/-{del_})", file=sys.stderr)
+print(f"data: repos={repo_count} contributed={contributed} stars={stars} commits={commits} followers={followers} loc={loc_net} (+{add}/-{del_})", file=sys.stderr)
 
 # ---- build info column ----
 info = [
@@ -129,7 +137,7 @@ info = [
     field("Website", "arshsingh.net"),
     None,
     hdr("-— GitHub Stats "),
-    stats_line("Repos", f"{public_repos} {{Contributed: {contributed}}}", "Stars", str(stars)),
+    stats_line("Repos", f"{repo_count} {{Contributed: {contributed}}}", "Stars", str(stars)),
     stats_line("Commits", fmt_int(commits), "Followers", str(followers)),
     field("Lines of Code on GitHub", f"{fmt_int(loc_net)} ( {fmt_int(add)}++, {fmt_int(del_)}-- )"),
 ]
