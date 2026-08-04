@@ -4,7 +4,7 @@
              __  ,-.          |  |  :       . Uptime: ........................................ 19 years, 9 months
            ,' ,'/ /| .--.--.  :  :  :       . Host: .......................................... Cornell University
    ,--.--. '  | |' |/  /    ' :  |  |,--.   . IDE: .......................................... Neovim, Cursor, Zed
-  /       \|  |   ,|  :  /`./ |  :  '   |   . Experience: ................ Python, TypeScript, Java, C, C#, Swift
+  /       \|  |   ,|  :  /`./ |  :  '   |   . Experience: ....................... Python, TypeScript, Java, C, C#
  .--.  .-. '  :  / |  :  ;_   |  |   /' :   . Stack: ................. React, Next.js, Express, Flask, PostgreSQL
   \__\/: . |  | '   \  \    `.'  :  | | |   . Infra: ............................. Docker, GCP, Cloudflare, Linux
   ,″ .--.; ;  : |    `----.   |  |  ' | :   . Hobbies: .......................... Hardware, Homelab, Tennis, SSBU
