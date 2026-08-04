@@ -4,7 +4,7 @@
              __  ,-.          |  |  :       . Uptime: ........................................ 19 years, 9 months
            ,' ,'/ /| .--.--.  :  :  :       . Host: .......................................... Cornell University
    ,--.--. '  | |' |/  /    ' :  |  |,--.   . IDE: .......................................... Neovim, Cursor, Zed
-  /       \|  |   ,|  :  /`./ |  :  '   |   . Experience: ....................... Python, TypeScript, Java, C, C#
+  /       \|  |   ,|  :  /`./ |  :  '   |   . Experience: ................ Python, TypeScript, Java, C, C#, Swift
  .--.  .-. '  :  / |  :  ;_   |  |   /' :   . Stack: ................. React, Next.js, Express, Flask, PostgreSQL
   \__\/: . |  | '   \  \    `.'  :  | | |   . Infra: ............................. Docker, GCP, Cloudflare, Linux
   ,″ .--.; ;  : |    `----.   |  |  ' | :   . Hobbies: .......................... Hardware, Homelab, Tennis, SSBU
@@ -15,9 +15,9 @@
                                             . Website: ............................................ arshsingh.net
 
                                             -— GitHub Stats —————————————————————————————————————————————————————
-                                            . Repos: ......... 18 {Contributed: 72} | Stars: ................. 12
-                                            . Commits: ........................ 887 | Followers: ............. 20
-                                            . Lines of Code on GitHub: ..... 347,966 ( 3,689,920++, 3,341,954-- )
+                                            . Repos: ......... 17 {Contributed: 76} | Stars: ................. 12
+                                            . Commits: ........................ 885 | Followers: ............. 20
+                                            . Lines of Code on GitHub: ..... 347,108 ( 3,688,890++, 3,341,782-- )
 ```
 
 <p align="center">
