@@ -125,6 +125,7 @@ info = [
     field("OS", "macOS, Windows, Ubuntu"),
     field("Uptime", uptime_str(DOB, today)),
     field("Host", "Cornell University"),
+    field("Work", "Founding Engineer @ PoolStack"),
     field("IDE", "Neovim, Cursor, Zed"),
     field("Experience", "Python, TypeScript, Java, C, C#, Swift"),
     field("Stack", "React, Next.js, Express, Flask, PostgreSQL"),

@@ -3,15 +3,16 @@
                               ,--.' |       . OS: ........................................ macOS, Windows, Ubuntu
              __  ,-.          |  |  :       . Uptime: ........................................ 20 years, 0 months
            ,' ,'/ /| .--.--.  :  :  :       . Host: .......................................... Cornell University
-   ,--.--. '  | |' |/  /    ' :  |  |,--.   . IDE: .......................................... Neovim, Cursor, Zed
-  /       \|  |   ,|  :  /`./ |  :  '   |   . Experience: ................ Python, TypeScript, Java, C, C#, Swift
- .--.  .-. '  :  / |  :  ;_   |  |   /' :   . Stack: ................. React, Next.js, Express, Flask, PostgreSQL
-  \__\/: . |  | '   \  \    `.'  :  | | |   . Infra: ............................. Docker, GCP, Cloudflare, Linux
-  ,″ .--.; ;  : |    `----.   |  |  ' | :   . Hobbies: .......................... Hardware, Homelab, Tennis, SSBU
- /  /  ,.  |  , ;   /  /`--'  |  :  :_:,'
-;  :   .'   ---'   '--'.     /|  | ,'       -— Contact ——————————————————————————————————————————————————————————
-|  ,     .-./        `--'---' `--''         . Email: ........................................ hello@arshsingh.net
- `--`---'                                   . LinkedIn: .............................. linkedin.com/in/arshsingh5
+   ,--.--. '  | |' |/  /    ' :  |  |,--.   . Work: ............................... Founding Engineer @ PoolStack
+  /       \|  |   ,|  :  /`./ |  :  '   |   . IDE: .......................................... Neovim, Cursor, Zed
+ .--.  .-. '  :  / |  :  ;_   |  |   /' :   . Experience: ................ Python, TypeScript, Java, C, C#, Swift
+  \__\/: . |  | '   \  \    `.'  :  | | |   . Stack: ................. React, Next.js, Express, Flask, PostgreSQL
+  ,″ .--.; ;  : |    `----.   |  |  ' | :   . Infra: ............................. Docker, GCP, Cloudflare, Linux
+ /  /  ,.  |  , ;   /  /`--'  |  :  :_:,'   . Hobbies: .......................... Hardware, Homelab, Tennis, SSBU
+;  :   .'   ---'   '--'.     /|  | ,'
+|  ,     .-./        `--'---' `--''         -— Contact ——————————————————————————————————————————————————————————
+ `--`---'                                   . Email: ........................................ hello@arshsingh.net
+                                            . LinkedIn: .............................. linkedin.com/in/arshsingh5
                                             . Website: ............................................ arshsingh.net
 
                                             -— GitHub Stats —————————————————————————————————————————————————————
