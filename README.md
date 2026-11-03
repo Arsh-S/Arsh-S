@@ -3,7 +3,7 @@
                               ,--.' |       . OS: ........................................ macOS, Windows, Ubuntu
              __  ,-.          |  |  :       . Uptime: ........................................ 20 years, 0 months
            ,' ,'/ /| .--.--.  :  :  :       . Host: .......................................... Cornell University
-   ,--.--. '  | |' |/  /    ' :  |  |,--.   . Work: ............................... Founding Engineer @ PoolStack
+   ,--.--. '  | |' |/  /    ' :  |  |,--.   . Work: ........................... VP of AI and Platform @ PoolStack
   /       \|  |   ,|  :  /`./ |  :  '   |   . IDE: .......................................... Neovim, Cursor, Zed
  .--.  .-. '  :  / |  :  ;_   |  |   /' :   . Experience: ................ Python, TypeScript, Java, C, C#, Swift
   \__\/: . |  | '   \  \    `.'  :  | | |   . Stack: ................. React, Next.js, Express, Flask, PostgreSQL
